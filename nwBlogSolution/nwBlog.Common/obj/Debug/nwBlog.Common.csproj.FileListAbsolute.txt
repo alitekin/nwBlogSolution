@@ -1,0 +1,6 @@
+C:\Users\ali\source\repos\nwBlogSolution\nwBlog.Common\bin\Debug\nwBlog.Common.dll
+C:\Users\ali\source\repos\nwBlogSolution\nwBlog.Common\bin\Debug\nwBlog.Common.pdb
+C:\Users\ali\source\repos\nwBlogSolution\nwBlog.Common\obj\Debug\nwBlog.Common.csprojAssemblyReference.cache
+C:\Users\ali\source\repos\nwBlogSolution\nwBlog.Common\obj\Debug\nwBlog.Common.csproj.CoreCompileInputs.cache
+C:\Users\ali\source\repos\nwBlogSolution\nwBlog.Common\obj\Debug\nwBlog.Common.dll
+C:\Users\ali\source\repos\nwBlogSolution\nwBlog.Common\obj\Debug\nwBlog.Common.pdb
